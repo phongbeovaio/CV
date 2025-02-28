@@ -1,2 +1,2 @@
 # CV
-Tạo 1 CV Mẫu
+CV mẫu cho mọi người tham khảo
