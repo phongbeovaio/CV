@@ -460,6 +460,8 @@ header {
   height: 100%;
   background-color: #3498db;
   border-radius: 4px;
+  width: 0; /* Đặt width ban đầu là 0 để hiệu ứng bắt đầu từ 0% */
+  transition: width 1.5s ease-in-out; /* Thêm hiệu ứng tăng dần trong 1.5 giây */
 }
 
 .skills-tags {
